@@ -1,0 +1,29 @@
+{
+  "name": "logger-js",
+  "version": "1.0.0",
+  "description": "simple logger in javascript",
+  "main": "lib/logger.min.js",
+  "scripts": {
+    "build": "rollup -c",
+    "lint": "eslint ./src",
+    "test": "mocha  --check-leaks --bail --exit --reporter spec test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxihai123/logger-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuxihai123/logger-js/issues"
+  },
+  "homepage": "https://github.com/xuxihai123/logger-js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "eslint": "3.19.0",
+    "mocha": "5.2.0",
+    "rollup": "^0.67.3",
+    "rollup-plugin-babel": "^4.0.3"
+  }
+}
