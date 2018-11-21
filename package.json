@@ -1,7 +1,7 @@
 {
-  "name": "logger-js",
-  "version": "1.0.0",
-  "description": "simple logger in javascript",
+  "name": "logger5js",
+  "version": "0.0.1",
+  "description": "simple logger in javascript with five level",
   "main": "lib/logger.min.js",
   "scripts": {
     "build": "rollup -c",
