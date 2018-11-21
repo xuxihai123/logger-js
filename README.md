@@ -7,8 +7,9 @@ a simple logger in javascript with five level.
 
 **Features:**  
 
-🔥 Built in support for hot Mocker file replacement.  
-🚀 Quickly and easily configure the API via JSON.  
+🔥 support five log level.  
+🚀 custom format string or function.  
+🎉 set prefix label.
 
 ## Installation
 
