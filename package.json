@@ -1,6 +1,6 @@
 {
   "name": "logger5js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple logger in javascript with five level",
   "main": "lib/logger.min.js",
   "scripts": {
